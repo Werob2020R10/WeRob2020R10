@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Friedl De Groote'
-SITENAME = 'Research - Friedl De Groote'
+AUTHOR = 'Maarten Afschrift'
+SITENAME = 'WeRob2020'
 SITEURL = ''
 
 PATH = 'content'
