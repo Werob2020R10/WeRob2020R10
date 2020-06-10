@@ -30,6 +30,7 @@ AUTHOR_FEED_RSS = None
 # Pages
 #DISPLAY_PAGES_ON_MENU = True 
 #STATIC_PATHS  = ['siteImages']
+STATIC_PATHS = ['images']
 
 # Nice and simple theme
 #THEME = 'C:/Users/u0088756/Documents/Software/WebPage/PelicanThemesGit/~/pelican-themes/built-texts'
