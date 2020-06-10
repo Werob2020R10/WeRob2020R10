@@ -5,9 +5,7 @@ url:
 save_as: index.html
 
 
-## Special session WeRob 2020 - R10
-
-WeR10. Musculoskeletal modelling to evaluate and optimize performance of wearable robotic devices
+WeR10: Musculoskeletal modelling to evaluate and optimize performance of wearable robotic devices
 
 Organizers: Maarten Afschrift, Friedl De Groote, Sam van Rossom
 
