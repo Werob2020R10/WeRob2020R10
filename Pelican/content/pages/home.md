@@ -26,11 +26,11 @@ Anne Koelewijn is an assistant professor at Friedrich-Alexander-Universität (FA
 
 ### Nick Bianco
 
+**Title: Musculoskeletal simulations reveal the metabolic benefits of exoskeleton assistance strategies that couple multiple degrees-of-freedom**
+
 <img src="../images/NickBianco_profile.jpg" width="200" height="200" align="center"/> 
 
 Nick Bianco is PhD candidate in the Neuromuscular Biomechanics Lab at Stanford University under the direction of Dr. Scott Delp. His doctoral research is focused on the design of wearable robotic exoskeletons that reduce the metabolic cost of walking using musculoskeletal simulation. He is also a core developer on the OpenSim Moco project, which provides powerful direct collocation optimal control tools compatible with the OpenSim modeling software package. 
-
-**Title: Musculoskeletal simulations reveal the metabolic benefits of exoskeleton assistance strategies that couple multiple degrees-of-freedom**
 
 ### Richard Nuckols
 
