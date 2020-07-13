@@ -22,6 +22,7 @@ AUTHOR_FEED_RSS = None
 # Specify a customized theme, via absolute path
 #THEME = "C:/Users/u0088756/Documents/Software/WebPage/PelicanThemesGit/~/pelican-themes/blueidea"
 
+# LINKS = (('WeRob2020', 'http://www.2020.werob.org/'))
  # AVATAR = 'images//PastFoto_Friedl.jpg'
 
 # Social widget
@@ -31,6 +32,10 @@ AUTHOR_FEED_RSS = None
 #DISPLAY_PAGES_ON_MENU = True 
 #STATIC_PATHS  = ['siteImages']
 STATIC_PATHS = ['images']
+
+# Social widget
+# SOCIAL = ()
+# DEFAULT_PAGINATION = 2
 
 # Nice and simple theme
 #THEME = 'C:/Users/u0088756/Documents/Software/WebPage/PelicanThemesGit/~/pelican-themes/built-texts'
